@@ -17,8 +17,8 @@
         "url": "git+https://github.com/NormanHuth/laravel-mix-standalone-w-tailwind.git"
     },
     "author": "Norman Huth <norman@huth.it>",
+    "homepage": "https://huth.it",
     "license": "MIT",
-    "homepage": "https://github.com/NormanHuth/laravel-mix-standalone-w-tailwind",
     "dependencies": {
         "tailwindcss": "^3.0.11"
     },
