@@ -20,13 +20,14 @@
     "homepage": "https://huth.it",
     "license": "MIT",
     "dependencies": {
-        "tailwindcss": "^3.0.23"
+        "fast-glob": "^3.2.11",
+        "tailwindcss": "^3.0.24"
     },
     "devDependencies": {
         "cross-env": "^7.0.3",
         "laravel-mix": "^6.0.43",
         "resolve-url-loader": "^5.0.0",
-        "sass": "^1.49.10",
+        "sass": "^1.50.0",
         "sass-loader": "^12.6.0"
     }
 }

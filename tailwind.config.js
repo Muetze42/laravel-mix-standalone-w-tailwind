@@ -1,8 +1,8 @@
 module.exports = {
-  content:[
+  content: require('fast-glob').sync([
     './public/*.php',
     './public/**/*.html',
-  ],
+  ]),
   theme: {
     extend: {},
   },
